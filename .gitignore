@@ -1,0 +1,36 @@
+# Environnement Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Fichiers de configuration et secrets
+.env
+.env.*
+!.env.example
+
+# Données locales et fichiers Power BI potentiellement volumineux
+data/*.pbix
+data/*.pbit
+data/*.csv
+
+# Résultats générés
+output/*
+!output/.gitkeep
+
+# Outils et caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.vscode/
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+Desktop.ini

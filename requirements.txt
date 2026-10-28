@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.26
+pbixray>=0.15
+langgraph>=0.2
+langchain-groq>=0.2
+python-dotenv>=1.0
+pytest>=8.0
