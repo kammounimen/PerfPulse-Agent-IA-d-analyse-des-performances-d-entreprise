@@ -2,6 +2,18 @@
 Un mini-agent IA qui surveille des KPI, détecte les évolutions notables, identifie le produit ou la région concernés et rédige une courte conclusion. Power BI sert d'interface de restitution et de validation.
 
 
+
+
+
+https://github.com/user-attachments/assets/56dce257-99ec-4694-8358-27be57aea030
+
+
+
+
+
+
+
+
 <img width="1257" height="623" alt="Capture d’écran 2026-10-28 193642" src="https://github.com/user-attachments/assets/4eb0964e-85d1-447b-b85d-f891b0d3b527" />
 
 ## 📌 Présentation
